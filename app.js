@@ -1,1 +1,1 @@
-require(pokedex.json)
+let jsonData = require('./pokedex.json')
