@@ -8,6 +8,6 @@
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "mannyfaktur",
   "license": "ISC"
 }
